@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SuperPodCast</string>
+    <string name="title_activity_podcast_app">PodcastApp</string>
+</resources>
